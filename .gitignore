@@ -1,0 +1,17 @@
+# participant data must never be committed
+data/
+*.xlsx
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.tif
+*.tiff
+*.webp
+moodle
+extracted/
+*.pdf
+!templates/*.pdf
+.venv/
+__pycache__/
+.env
